@@ -1,0 +1,19 @@
+name: join
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  angular: ^5.0.0
+  angular_forms: ^2.0.0
+  angular_router: ^2.0.0-alpha+19
+  firebase_dart_ui: ^0.1.1
+  http: ^0.11.3
+  rxdart: ^0.21.0
+
+dev_dependencies:
+  angular_test: ^2.0.0
+  build_runner: ^1.0.0
+  build_test: ^0.10.2
+  build_web_compilers: ^0.4.0
+  test: ^1.0.0
